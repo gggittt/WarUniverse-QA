@@ -6,7 +6,7 @@
 
 
 # 2. 
-Вынес отдельно https://github.com/gggittt/WarUniverse-QA/blob/main/bug-reports.md
+Баг репорты вынес отдельно: https://github.com/gggittt/WarUniverse-QA/blob/main/bug-reports.md
 
 
 # 3.
